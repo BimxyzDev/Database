@@ -20,6 +20,13 @@
       "password": "john123",
       "email": "john@example.com",
       "created_at": "2024-02-01T08:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "username": "111",
+      "password": "1",
+      "email": "bimaputra436123@gmail.com",
+      "created_at": "2026-03-22T15:00:09.988Z"
     }
   ],
   "products": [
@@ -141,4 +148,4 @@
       "description": "Aksesoris pendukung"
     }
   ]
-      }
+}
