@@ -27,6 +27,13 @@
       "password": "1",
       "email": "bimaputra436123@gmail.com",
       "created_at": "2026-03-22T15:00:09.988Z"
+    },
+    {
+      "id": 5,
+      "username": "1",
+      "password": "1",
+      "email": "11@1.m",
+      "created_at": "2026-03-23T04:30:08.171Z"
     }
   ],
   "products": [
